@@ -2,7 +2,9 @@
 
 This project hosts the official implementation for the paper: 
 
-**CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images** [[arxiv]()].
+**CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images**.
+
+(paper and the complete code are coming soon....)
 
 ## Abstract
 
@@ -75,11 +77,11 @@ Note that :
 
 * Results on HRSC2016: 
 the red bounding box and the green denotes preset anchors and detection results, respectively.
-![HRSC_results](https://github.com/ming71/DAL/blob/master/outputs/HRSC.jpg)
+![HRSC_results](https://github.com/ming71/CFC-Net/blob/master/outputs/HRSC.jpg)
 
 * Results on DOTA: 
 
-![DOTA_results](https://github.com/ming71/DAL/blob/master/outputs/DOTA.jpg)
+![DOTA_results](https://github.com/ming71/CFC-Net/blob/master/outputs/DOTA.jpg)
 
 ## Citation
 
