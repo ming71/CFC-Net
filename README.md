@@ -2,7 +2,7 @@
 
 This project hosts the official implementation for the paper: 
 
-**CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images**.
+**CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images** [[arxiv](https://arxiv.org/abs/2101.06849)]
 
 (paper and the complete code are coming soon....)
 
@@ -85,6 +85,15 @@ the red bounding box and the green denotes preset anchors and detection results,
 
 ## Citation
 
-If you find our work or code useful in your research, please consider citing.
+If you find our work or code useful in your research, please consider citing:
+
+```
+@article{ming2021cfc,
+  title={CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images},
+  author={Ming, Qi and Miao, Lingjuan and Zhou, Zhiqiang and Dong, Yunpeng},
+  journal={arXiv preprint arXiv:2101.06849},
+  year={2021}
+}
+```
 
 If you have any questions, please contact me via issue or [email](mq_chaser@126.com).
