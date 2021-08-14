@@ -2,9 +2,7 @@
 
 This project hosts the official implementation for the paper: 
 
-**CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images** [[arxiv](https://arxiv.org/abs/2101.06849)]
-
-(paper and the complete code are coming soon....)
+**CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images** [[paper](https://ieeexplore.ieee.org/abstract/document/9488629)] 
 
 ## Abstract
 
@@ -88,12 +86,29 @@ the red bounding box and the green denotes preset anchors and detection results,
 If you find our work or code useful in your research, please consider citing:
 
 ```
-@article{ming2021cfc,
-  title={CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images},
-  author={Ming, Qi and Miao, Lingjuan and Zhou, Zhiqiang and Dong, Yunpeng},
-  journal={arXiv preprint arXiv:2101.06849},
-  year={2021}
+@inproceedings{ming2021dynamic,
+    title={Dynamic Anchor Learning for Arbitrary-Oriented Object Detection},
+    author={Ming, Qi and Zhou, Zhiqiang and Miao, Lingjuan and Zhang, Hongwei and Li, Linhao},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={35},
+    number={3},
+    pages={2355--2363},
+    year={2021}
 }
+
+
+@article{ming2021cfc,
+    author={Ming, Qi and Miao, Lingjuan and Zhou, Zhiqiang and Dong, Yunpeng},
+    journal={IEEE Transactions on Geoscience and Remote Sensing},
+    title={CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote-Sensing Images},
+    year={2021},
+    volume={},
+    number={},
+    pages={1-14},
+    doi={10.1109/TGRS.2021.3095186}
+}
+
+
 ```
 
 If you have any questions, please contact me via issue or [email](mq_chaser@126.com).
