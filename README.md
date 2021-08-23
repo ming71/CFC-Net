@@ -4,6 +4,8 @@ This project hosts the official implementation for the paper:
 
 **CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images** [[paper](https://ieeexplore.ieee.org/abstract/document/9488629)] 
 
+**Notes**：Our paper has been accepted by **TGRS**. 
+
 ## Abstract
 
 In this paper, we discuss the role of discriminative features in object detection, and then propose a Critical Feature Capturing Network (CFC-Net) to improve detection accuracy from three aspects: building powerful feature representation, refining preset anchors, and optimizing label assignment. The proposed framework creates more powerful semantic representations for objects in  remote sensing images and achieves high-performance real-time object detection. Note that our model is a one-stage detector with only one anchor on each location in feature maps, which is equivalent to the anchor-free methods, thus the inference speed is faster.
@@ -86,17 +88,6 @@ the red bounding box and the green denotes preset anchors and detection results,
 If you find our work or code useful in your research, please consider citing:
 
 ```
-@inproceedings{ming2021dynamic,
-    title={Dynamic Anchor Learning for Arbitrary-Oriented Object Detection},
-    author={Ming, Qi and Zhou, Zhiqiang and Miao, Lingjuan and Zhang, Hongwei and Li, Linhao},
-    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-    volume={35},
-    number={3},
-    pages={2355--2363},
-    year={2021}
-}
-
-
 @article{ming2021cfc,
     author={Ming, Qi and Miao, Lingjuan and Zhou, Zhiqiang and Dong, Yunpeng},
     journal={IEEE Transactions on Geoscience and Remote Sensing},
